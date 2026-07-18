@@ -1,2 +1,27 @@
 # Google App Engine generated folder
 appengine-generated/
+# Godot 4 specific files
+.godot/
+*.godot
+*.import
+
+# Build output
+bin/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# User-specific files
+*.user
+.vsconfig
