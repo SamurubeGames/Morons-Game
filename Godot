@@ -1,0 +1,30 @@
+# Morons - A Godot 3D Game
+
+## Overview
+**Morons** is a chaotic 3D adventure game about two friends, Jake and Marco, who find themselves caught in a whirlwind day of chaos and mayhem. From accidentally triggering alarms to causing property damage in the most ridiculous ways, these two best friends must navigate through increasingly absurd situations while learning what friendship truly means.
+
+## Story
+Jake and Marco are just two regular friends looking for a fun day out. But when Jake accidentally bumps into a street vendor's cart, everything spirals into hilarious chaos. What starts as one small incident snowballs into a city-wide adventure filled with:
+- Angry shop owners
+- Confused police officers
+- Increasingly ridiculous obstacles
+- Unexpected allies and enemies
+- Moments of genuine friendship amid the madness
+
+## Game Features
+- **Co-op Gameplay**: Play as Jake or Marco, each with unique abilities
+- **Dynamic Chaos System**: Your actions have consequences that affect the world around you
+- **Physics-Based Interactions**: Knock things over, trigger chain reactions, and cause delightful destruction
+- **Character Progression**: Unlock new moves and abilities as you progress
+- **Multiple Endings**: Your choices throughout the day determine how your adventure concludes
+- **Vibrant 3D World**: Colorful environments filled with interactive elements
+
+## Controls
+- **WASD**: Move
+- **Space**: Jump
+- **Mouse**: Look around
+- **Left Click**: Interact/Attack
+- **Right Click**: Special ability
+- **E**: Pick up objects
+
+## Project Structure
